@@ -1,5 +1,5 @@
 public class Solution {
-    public class Solution {
+    
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
         List<List<Integer>> result = new LinkedList<>();
@@ -55,5 +55,5 @@ public class Solution {
     }
         
     
-}
+
 }
